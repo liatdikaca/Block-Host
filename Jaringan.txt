@@ -1,0 +1,705 @@
+#indihome
+0.0.0.0 api.indihome.co.id 180.250.116.79
+0.0.0.0 o213.env.indihome.co.id 149.72.145.149
+0.0.0.0 isolir.indihome.co.id 180.250.116.178
+0.0.0.0 monitoring.indihome.co.id 180.250.115.111
+0.0.0.0 my.indihome.co.id 180.250.119.62
+0.0.0.0 mymove.indihome.co.id 103.28.15.233
+0.0.0.0 oauth.indihome.co.id 180.250.116.174
+0.0.0.0 partner.indihome.co.id 118.98.34.70
+0.0.0.0 selfcare.indihome.co.id 180.250.119.95
+0.0.0.0 sobat.indihome.co.id 180.250.116.174
+0.0.0.0 store.indihome.co.id 118.98.27.57
+0.0.0.0 subsystem.indihome.co.id 180.250.116.208
+0.0.0.0 test.indihome.co.id 103.252.163.39
+0.0.0.0 welcome.indihome.co.id 36.66.1.2
+0.0.0.0 www.indihome.co.id 180.250.116.205
+
+# Balifiber
+0.0.0.0 balifiber.id 103.138.43.179
+0.0.0.0 api-app-dev.balifiber.id 103.94.168.174
+0.0.0.0 cnbot.balifiber.id 103.94.168.210
+0.0.0.0 dashboard-app-dev.balifiber.id 103.94.168.174
+0.0.0.0 meeting.balifiber.id 103.19.228.29
+0.0.0.0 mrtg.balifiber.id 103.94.168.162
+0.0.0.0 smtp.noreply.balifiber.id 103.94.168.49
+0.0.0.0 ns1.balifiber.id 103.94.168.170
+0.0.0.0 ns2.balifiber.id 103.94.168.171
+0.0.0.0 salesorder.balifiber.id 103.119.146.67
+0.0.0.0 speedtest.balifiber.id 103.94.168.211
+
+#ionnetwork
+0.0.0.0 beta.ionnetwork.co.id 43.225.64.162
+0.0.0.0 www.beta.ionnetwork.co.id 43.225.64.162
+0.0.0.0 blog.ionnetwork.co.id 43.225.64.162
+0.0.0.0 www.ionbroadband.id.ionnetwork.co.id 43.225.64.162
+0.0.0.0 ioncloud.id.ionnetwork.co.id 43.225.64.162
+0.0.0.0 www.ioncloudhosting.id.ionnetwork.co.id 43.225.64.162
+0.0.0.0 www.ionenterprise.id.ionnetwork.co.id 43.225.64.162
+0.0.0.0 ionpartnership.id.ionnetwork.co.id 43.225.64.162
+0.0.0.0 www.ionpartnership.id.ionnetwork.co.id 43.225.64.162
+0.0.0.0 ionrecruitment.ionnetwork.co.id 43.225.64.162
+0.0.0.0 www.ionrecruitment.ionnetwork.co.id 43.225.64.162
+0.0.0.0 www.jakwifi.ionnetwork.co.id 43.225.64.162
+0.0.0.0 mail.ionnetwork.co.id 43.225.64.59
+0.0.0.0 www.recruitmentfile.ionnetwork.co.id 43.225.64.162
+0.0.0.0 sap.ionnetwork.co.id 43.225.64.162
+0.0.0.0 www.sap.ionnetwork.co.id 43.225.64.162
+0.0.0.0 space.ionnetwork.co.id 43.225.64.236
+0.0.0.0 test.ionnetwork.co.id 43.225.64.162
+0.0.0.0 www.test.ionnetwork.co.id 43.225.64.162
+
+#junungid
+0.0.0.0 absensi.jujung.id 43.225.64.162
+0.0.0.0 www.absensi.jujung.id 43.225.64.162
+0.0.0.0 cctv.jujung.id 43.225.64.93
+0.0.0.0 daftartemp.jujung.id 43.225.64.162
+0.0.0.0 demo.jujung.id 43.225.64.162
+0.0.0.0 ivechat.jujung.id 43.225.64.93
+0.0.0.0 member.jujung.id 43.225.64.198
+0.0.0.0 www.member.jujung.id 43.225.64.162
+0.0.0.0 pp.jujung.id 43.225.64.198
+0.0.0.0 recruitment.jujung.id 43.225.64.162
+0.0.0.0 recruitmenttrial.jujung.id 43.225.64.162
+0.0.0.0 salesorder.jujung.id 43.225.64.162
+0.0.0.0 webgis.jujung.id 43.225.64.162
+
+#firstmedia
+0.0.0.0 Info2.firstmedia.com 202.137.6.190
+0.0.0.0 billing.firstmedia.com 202.73.99.61
+0.0.0.0 cek.firstmedia.com 202.137.2.81
+0.0.0.0 cloud-storage.firstmedia.com 202.73.99.195
+0.0.0.0 ebill.firstmedia.com 202.137.6.187
+0.0.0.0 ebill3.firstmedia.com 116.68.229.154
+0.0.0.0 ebill4.firstmedia.com 116.68.229.155
+0.0.0.0 ebill6.firstmedia.com 111.95.245.90
+0.0.0.0 expe1.firstmedia.com 202.77.101.82
+0.0.0.0 firstcreator.firstmedia.com 202.73.99.62
+0.0.0.0 fm1.firstmedia.com 202.137.2.81
+0.0.0.0 info.firstmedia.com 202.137.6.188
+0.0.0.0 mxa.jg.firstmedia.com 202.137.7.123
+0.0.0.0 mail.firstmedia.com 202.137.31.44
+0.0.0.0 my.firstmedia.com 202.73.99.72
+0.0.0.0 reg.firstmedia.com 202.137.6.189
+0.0.0.0 smtp.firstmedia.com 202.77.101.88
+0.0.0.0 smtp1.firstmedia.com 202.77.101.90
+0.0.0.0 soap.firstmedia.com 202.73.99.61
+0.0.0.0 soap1.firstmedia.com 202.73.99.60
+0.0.0.0 sso.firstmedia.com 34.117.143.246
+0.0.0.0 staging.firstmedia.com 202.73.99.59
+0.0.0.0 streaming.firstmedia.com 202.73.96.173
+0.0.0.0 webmail.firstmedia.com 202.77.101.88
+0.0.0.0 www.firstmedia.com 34.111.144.182
+
+#corpnet
+0.0.0.0 cacti.corpnet.net.id 113.197.108.235
+0.0.0.0 cacti2.corpnet.net.id 103.14.16.76
+0.0.0.0 cpanel.corpnet.net.id 103.229.73.58
+0.0.0.0 cpcalendars.corpnet.net.id 45.64.1.77
+0.0.0.0 cpcontacts.corpnet.net.id 45.64.1.77
+0.0.0.0 mail.corpnet.net.id 103.229.73.58
+0.0.0.0 ns1.corpnet.net.id 103.14.16.66
+0.0.0.0 ns2.corpnet.net.id 113.197.108.234
+0.0.0.0 webdisk.corpnet.net.id 103.229.73.115
+0.0.0.0 webmail.corpnet.net.id 103.229.73.58
+0.0.0.0 www.corpnet.net.id 113.197.109.29
+
+#megavision
+0.0.0.0 bdg-sales.megavision.net.id 113.197.109.29
+0.0.0.0 bgr-eng.megavision.net.id 113.197.109.29
+0.0.0.0 mail.megavision.net.id 103.14.16.13
+0.0.0.0 ns1.megavision.net.id 103.14.16.66
+0.0.0.0 ns2.megavision.net.id 113.197.108.234
+0.0.0.0 www.megavision.net.id 113.197.109.29
+
+#biznet
+0.0.0.0 biznethome.net 203.142.82.98
+0.0.0.0 registration.biznethome.net 203.142.82.25
+
+#myrepublic
+0.0.0.0 myrepublic.co.id 34.101.48.158
+0.0.0.0 academy.myrepublic.co.id 104.17.55.71
+0.0.0.0 acs-ott.myrepublic.co.id 103.156.160.208
+0.0.0.0 assessment.myrepublic.co.id 158.140.187.11
+0.0.0.0 block.myrepublic.co.id 158.140.186.3
+0.0.0.0 boss-mrid-st.myrepublic.co.id 52.74.115.163
+0.0.0.0 boss-mrid-st3.myrepublic.co.id 52.74.115.163
+0.0.0.0 boss-voice.myrepublic.co.id 52.76.77.117
+0.0.0.0 boss-voice-st.myrepublic.co.id 52.74.115.163
+0.0.0.0 host-66-96-242-2.myrepublic.co.id 66.96.242.2
+0.0.0.0 mrtg.myrepublic.co.id 66.96.253.42
+0.0.0.0 ns1.myrepublic.co.id 103.47.132.195
+0.0.0.0 ns2.myrepublic.co.id 103.47.134.195
+0.0.0.0 ns3.myrepublic.co.id 158.140.186.19
+0.0.0.0 ns4.myrepublic.co.id 158.140.187.44
+0.0.0.0 offshore-st.myrepublic.co.id 13.228.220.47
+0.0.0.0 oldwww.myrepublic.co.id 54.255.182.66
+0.0.0.0 academy.oss.myrepublic.co.id 158.140.186.4
+0.0.0.0 0.0.0.0 apinisa.oss.myrepublic.co.id 158.140.186.18
+0.0.0.0 assesment.oss.myrepublic.co.id 158.140.187.11
+0.0.0.0 astri-beta.oss.myrepublic.co.id 158.140.186.18
+0.0.0.0 astri-osp.oss.myrepublic.co.id 158.140.186.18
+0.0.0.0 barrans.oss.myrepublic.co.id 158.140.186.18
+0.0.0.0 byc.oss.myrepublic.co.id 158.140.186.4
+0.0.0.0 cacti.oss.myrepublic.co.id 158.140.186.18
+0.0.0.0 cacti-core.oss.myrepublic.co.id 158.140.186.18
+0.0.0.0 cacti-csf.oss.myrepublic.co.id 158.140.186.18
+0.0.0.0 cacti-ndc.oss.myrepublic.co.id 158.140.186.18
+0.0.0.0 cacti2.oss.myrepublic.co.id 158.140.186.18
+0.0.0.0 cdn.oss.myrepublic.co.id 158.140.186.18
+0.0.0.0 cdn-csf.oss.myrepublic.co.id 158.140.186.18
+0.0.0.0 cdn-ndc.oss.myrepublic.co.id 158.140.186.18
+0.0.0.0 coherio.oss.myrepublic.co.id 158.140.186.18
+0.0.0.0 csd.oss.myrepublic.co.id 158.140.186.4
+0.0.0.0 data.oss.myrepublic.co.id 158.140.186.4
+0.0.0.0 edge-sby.oss.myrepublic.co.id 158.140.186.18
+0.0.0.0 elklog.oss.myrepublic.co.id 158.140.186.18
+0.0.0.0 elkradius.oss.myrepublic.co.id 158.140.186.18
+0.0.0.0 ess.oss.myrepublic.co.id 158.140.186.18
+0.0.0.0 ess-admin.oss.myrepublic.co.id 158.140.186.18
+0.0.0.0 fat-verification.oss.myrepublic.co.id 158.140.186.18
+0.0.0.0 fms.oss.myrepublic.co.id 158.140.186.18
+0.0.0.0 fta.oss.myrepublic.co.id 158.140.186.18
+0.0.0.0 grafana.oss.myrepublic.co.id 158.140.186.18
+0.0.0.0 apicore.gslb.oss.myrepublic.co.id 103.130.19.153
+0.0.0.0 cacti-access.gslb.oss.myrepublic.co.id 103.130.19.141
+0.0.0.0 cacti-core.gslb.oss.myrepublic.co.id 103.130.19.141
+0.0.0.0 enterprise.gslb.oss.myrepublic.co.id 103.130.19.141
+0.0.0.0 fat-verification.gslb.oss.myrepublic.co.id 103.130.19.141
+0.0.0.0 fms.gslb.oss.myrepublic.co.id 103.130.19.141
+0.0.0.0 fta.gslb.oss.myrepublic.co.id 103.130.19.141
+0.0.0.0 getpromo-stg.gslb.oss.myrepublic.co.id 103.130.19.136
+0.0.0.0 grafana.gslb.oss.myrepublic.co.id 103.130.19.141
+0.0.0.0 h2c.gslb.oss.myrepublic.co.id 103.130.19.141
+0.0.0.0 2c.gslb.oss.myrepublic.co.id 103.130.19.139
+0.0.0.0 maia.gslb.oss.myrepublic.co.id 103.130.19.141
+0.0.0.0 mba.gslb.oss.myrepublic.co.id 103.130.19.157
+0.0.0.0 mbadb.gslb.oss.myrepublic.co.id 103.130.19.141
+0.0.0.0 microsite.gslb.oss.myrepublic.co.id 103.130.19.141
+0.0.0.0 moving-address.gslb.oss.myrepublic.co.id 103.130.19.141
+0.0.0.0 moving-address-be.gslb.oss.myrepublic.co.id 103.130.19.157
+0.0.0.0 nisa.gslb.oss.myrepublic.co.id 103.130.19.134
+0.0.0.0 nisa1.gslb.oss.myrepublic.co.id 103.130.19.134
+0.0.0.0 observium.gslb.oss.myrepublic.co.id 103.130.19.141
+0.0.0.0 observium-access.gslb.oss.myrepublic.co.id 103.130.19.141
+0.0.0.0 observium-dummy.gslb.oss.myrepublic.co.id 103.130.19.157
+0.0.0.0 observium-system.gslb.oss.myrepublic.co.id 103.130.19.141
+0.0.0.0 observiumcloud.gslb.oss.myrepublic.co.id 103.130.19.141
+0.0.0.0 observiumott.gslb.oss.myrepublic.co.id 103.130.19.141
+0.0.0.0 uat-adapi.ott.gslb.oss.myrepublic.co.id 103.130.19.142
+0.0.0.0 uat-adimg.ott.gslb.oss.myrepublic.co.id 103.130.19.142
+0.0.0.0 uat-adms.ott.gslb.oss.myrepublic.co.id 103.130.19.142
+0.0.0.0 uat-api.ott.gslb.oss.myrepublic.co.id 103.130.19.142
+0.0.0.0 uat-cdn.ott.gslb.oss.myrepublic.co.id 103.130.19.142
+0.0.0.0 uat-cdnssc.ott.gslb.oss.myrepublic.co.id 103.130.19.142
+0.0.0.0 uat-cloud.ott.gslb.oss.myrepublic.co.id 103.130.19.142
+0.0.0.0 uat-dms.ott.gslb.oss.myrepublic.co.id 103.130.19.142
+0.0.0.0 uat-img.ott.gslb.oss.myrepublic.co.id 103.130.19.142
+0.0.0.0 uat-kms.ott.gslb.oss.myrepublic.co.id 103.130.19.158
+0.0.0.0 uat-studio.ott.gslb.oss.myrepublic.co.id 103.130.19.142
+0.0.0.0 uat-xxl-job.ott.gslb.oss.myrepublic.co.id 103.130.19.158
+0.0.0.0 owncloud.gslb.oss.myrepublic.co.id 103.130.19.141
+0.0.0.0 portal.gslb.oss.myrepublic.co.id 103.130.19.133
+0.0.0.0 portal1.gslb.oss.myrepublic.co.id 103.130.19.133
+0.0.0.0 recruitment.gslb.oss.myrepublic.co.id 103.130.19.141
+0.0.0.0 repository.gslb.oss.myrepublic.co.id 103.130.19.141
+0.0.0.0 smokeping-bsd.gslb.oss.myrepublic.co.id 103.130.19.141
+0.0.0.0 webmail.gslb.oss.myrepublic.co.id 103.130.19.141
+0.0.0.0 webtop1.gslb.oss.myrepublic.co.id 103.130.19.133
+0.0.0.0 wiki.gslb.oss.myrepublic.co.id 103.130.19.141
+0.0.0.0 h2c.oss.myrepublic.co.id 158.140.186.18
+0.0.0.0 host-103-119-54-251.oss.myrepublic.co.id 103.119.54.251
+0.0.0.0 hris.oss.myrepublic.co.id 158.140.186.4
+0.0.0.0 hris2.oss.myrepublic.co.id 158.140.187.25
+0.0.0.0 ivr.oss.myrepublic.co.id 158.140.186.18
+0.0.0.0 2c.oss.myrepublic.co.id 158.140.186.18
+0.0.0.0 2c-beta.oss.myrepublic.co.id 158.140.186.18
+0.0.0.0 maia.oss.myrepublic.co.id 158.140.186.18
+0.0.0.0 mailin.oss.myrepublic.co.id 158.140.186.18
+0.0.0.0 mautic.oss.myrepublic.co.id 158.140.186.18
+0.0.0.0 mba.oss.myrepublic.co.id 158.140.186.18
+0.0.0.0 mbadb.oss.myrepublic.co.id 158.140.186.18
+0.0.0.0 meraki.oss.myrepublic.co.id 158.140.186.4
+0.0.0.0 metabase.oss.myrepublic.co.id 158.140.186.18
+0.0.0.0 microsite-staging.oss.myrepublic.co.id 158.140.186.18
+0.0.0.0 myrepedia.oss.myrepublic.co.id 158.140.186.4
+0.0.0.0 netflow.oss.myrepublic.co.id 158.140.186.18
+0.0.0.0 nita.oss.myrepublic.co.id 158.140.186.18
+0.0.0.0 nocticket.oss.myrepublic.co.id 158.140.186.4
+0.0.0.0 observ.oss.myrepublic.co.id 158.140.186.7
+0.0.0.0 observe.oss.myrepublic.co.id 158.140.186.7
+0.0.0.0 observetest.oss.myrepublic.co.id 158.140.186.18
+0.0.0.0 observium-access.oss.myrepublic.co.id 158.140.186.18
+0.0.0.0 observium-system.oss.myrepublic.co.id 158.140.186.18
+0.0.0.0 office-cdt.oss.myrepublic.co.id 103.47.132.230
+0.0.0.0 olin.oss.myrepublic.co.id 158.140.186.18
+0.0.0.0 owncloud.oss.myrepublic.co.id 158.140.186.18
+0.0.0.0 pfm.oss.myrepublic.co.id 158.140.186.18
+0.0.0.0 pgateway.oss.myrepublic.co.id 158.140.186.18
+0.0.0.0 promo-staging.oss.myrepublic.co.id 158.140.186.18
+0.0.0.0 realtimegraph.oss.myrepublic.co.id 158.140.186.18
+0.0.0.0 repository.oss.myrepublic.co.id 158.140.186.18
+0.0.0.0 smokeping.oss.myrepublic.co.id 103.47.133.198
+0.0.0.0 smokeping-bsd.oss.myrepublic.co.id 158.140.186.18
+0.0.0.0 smokeping-csf.oss.myrepublic.co.id 158.140.187.6
+0.0.0.0 smokeping-dns.oss.myrepublic.co.id 158.140.186.18
+0.0.0.0 smokeping-grafana.oss.myrepublic.co.id 158.140.186.18
+0.0.0.0 smtpid.oss.myrepublic.co.id 158.140.187.14
+0.0.0.0 snipeit.oss.myrepublic.co.id 158.140.187.36
+0.0.0.0 speedtest-csf.oss.myrepublic.co.id 158.140.187.5
+0.0.0.0 takesurvey.oss.myrepublic.co.id 158.140.186.18
+0.0.0.0 ucs.oss.myrepublic.co.id 158.140.186.18
+0.0.0.0 updatedata.oss.myrepublic.co.id 158.140.187.23
+0.0.0.0 webmail.oss.myrepublic.co.id 158.140.186.18
+0.0.0.0 wiki.oss.myrepublic.co.id 158.140.186.18
+0.0.0.0 zabbix-core.oss.myrepublic.co.id 158.140.187.12
+0.0.0.0 sip.myrepublic.co.id 103.47.134.196
+0.0.0.0 smtpid.myrepublic.co.id 158.140.187.14
+0.0.0.0 snipe-it.myrepublic.co.id 103.7.201.55
+0.0.0.0 suspend.myrepublic.co.id 158.140.187.146
+
+#iconnet.id
+0.0.0.0 iconnet.id 103.94.6.58
+0.0.0.0 mail.iconnet.id 202.62.9.108
+0.0.0.0 iconnet.web.id 109.106.252.83
+
+#CBN Fiber
+0.0.0.0 cbn.id 116.204.249.139
+0.0.0.0 test.beta.cbn.id 116.204.130.60
+0.0.0.0 career.cbn.id 16.78.122.12
+0.0.0.0 championship.cbn.id 116.204.250.98
+0.0.0.0 mail.championship.cbn.id 103.253.68.59
+0.0.0.0 dev-api-oms.cbn.id 116.204.249.67
+0.0.0.0 esports.cbn.id 103.253.68.37
+0.0.0.0 freezed.cbn.id 202.158.3.114
+0.0.0.0 gigafiber.cbn.id 116.204.130.60
+0.0.0.0 manage1.cbn.id 116.204.249.131
+0.0.0.0 manage2.cbn.id 108.136.152.168
+0.0.0.0 promo.cbn.id 116.204.250.98
+0.0.0.0 speedtest.cbn.id 202.158.8.14
+0.0.0.0 speedtest-sg.cbn.id 121.100.2.35
+0.0.0.0 wififree.cbn.id 16.204.130.30
+
+#MNC Play
+0.0.0.0 mncvisionnetworks.com 104.21.16.1
+0.0.0.0 www.mncvisionnetworks.com 172.67.161.210
+
+#XL Fiber
+0.0.0.0 xlhomefiber.com 103.66.86.234
+0.0.0.0 www.myrepublicinternet.com.xlhomefiber.com 103.16.198.177
+0.0.0.0 www.myrepublicwifi.com.xlhomefiber.com 103.16.198.177
+0.0.0.0 www.daftarwifimurah.my.id.xlhomefiber.com 103.16.198.177
+0.0.0.0 gunawan-muslim.my.id.xlhomefiber.com 103.16.198.177
+0.0.0.0 www.gunawan-muslim.my.id.xlhomefiber.com 103.16.198.177
+0.0.0.0 www.infowifimurah.my.id.xlhomefiber.com 103.16.198.177
+0.0.0.0 myrepublic-jakarta.my.id.xlhomefiber.com 103.16.198.177
+0.0.0.0 www.myrepublic-jakarta.my.id.xlhomefiber.com 103.16.198.177
+0.0.0.0 www.myrepublicbekasi.my.id.xlhomefiber.com 103.16.198.177
+0.0.0.0 www.myrepublicbogor.my.id.xlhomefiber.com 103.16.198.177
+0.0.0.0 www.myrepubliccibubur.my.id.xlhomefiber.com 103.16.198.177
+0.0.0.0 www.myrepublicdepok.my.id.xlhomefiber.com 103.16.198.177
+0.0.0.0 www.myrepublictangerang.my.id.xlhomefiber.com 103.16.198.177
+0.0.0.0 www.cbnfiber.web.id.xlhomefiber.com 103.16.198.177
+0.0.0.0 www.cbninternet.web.id.xlhomefiber.com 103.16.198.177
+0.0.0.0 www.daftariconnet.web.id.xlhomefiber.com 103.16.198.177
+0.0.0.0 www.paketmyrepublic.web.id.xlhomefiber.com 103.16.198.177
+0.0.0.0 www.pasangiconnet.web.id.xlhomefiber.com 103.16.198.177
+0.0.0.0 www.salesmyrepublic.web.id.xlhomefiber.com 103.16.198.177
+0.0.0.0 www.wifiiconnet.web.id.xlhomefiber.com 103.16.198.177
+
+#groovy
+0.0.0.0 101internet.id 23.227.38.65
+
+#comet
+0.0.0.0 comet.net.id
+0.0.0.0 cpanel.comet.net.id 27.131.0.193
+0.0.0.0 crm.comet.net.id 27.131.3.130
+0.0.0.0 dev.comet.net.id 27.131.3.131
+0.0.0.0 mobapp.comet.net.id 27.131.0.142
+0.0.0.0 webmail.comet.net.id 27.131.0.193
+
+#Moratelindo
+0.0.0.0 absensi.moratelindo.co.id 27.50.30.196
+0.0.0.0 access1-btc-btm.moratelindo.co.id 202.43.184.66
+0.0.0.0 access1-eqx-sin.moratelindo.co.id 202.43.176.210
+0.0.0.0 access2-btc-btm.moratelindo.co.id 202.43.184.67
+0.0.0.0 alpha-1.moratelindo.co.id 103.76.19.188
+0.0.0.0 android.moratelindo.co.id 27.50.30.196
+0.0.0.0 alterra.api.moratelindo.co.id 202.43.190.75
+0.0.0.0 application.moratelindo.co.id 192.168.10.93
+0.0.0.0 appraisal.moratelindo.co.id 203.176.182.131
+0.0.0.0 sso.apps.moratelindo.co.id 192.168.11.208
+0.0.0.0 athena.moratelindo.co.id 27.50.30.202
+0.0.0.0 br1-sin-eqx.moratelindo.co.id 103.56.234.9
+0.0.0.0 br1-sin-gsw.moratelindo.co.id 103.56.234.10
+0.0.0.0 btpn.moratelindo.co.id 27.50.30.238
+0.0.0.0 btpn-dev.moratelindo.co.id 202.43.190.85
+0.0.0.0 bwtest.moratelindo.co.id 202.43.178.254
+0.0.0.0 careers.moratelindo.co.id 27.50.30.196
+0.0.0.0 cem.moratelindo.co.id 203.176.182.131
+0.0.0.0 cloud.moratelindo.co.id 103.22.248.50
+0.0.0.0 core1-eqx-sin.moratelindo.co.id 202.43.176.253
+0.0.0.0 cpanel3.moratelindo.co.id 103.22.248.123
+0.0.0.0 mail.cus.moratelindo.co.id 202.43.190.101
+0.0.0.0 dashboard.moratelindo.co.id 192.168.10.41
+0.0.0.0 deathstar.moratelindo.co.id 202.150.90.101
+0.0.0.0 devops.moratelindo.co.id 192.168.10.159
+0.0.0.0 dns-ha.moratelindo.co.id 27.50.30.212
+0.0.0.0 dns-sehat1.moratelindo.co.id 27.50.20.21
+0.0.0.0 dns-sehat2.moratelindo.co.id 27.50.30.21
+0.0.0.0 dns-sehat3.moratelindo.co.id 103.22.248.222
+0.0.0.0 dns-sehat4.moratelindo.co.id 103.22.248.170
+0.0.0.0 dnsproxy1-sin.moratelindo.co.id 202.43.176.13
+0.0.0.0 dnsproxy2-sin.moratelindo.co.id 202.43.176.14
+0.0.0.0 e-book.moratelindo.co.id 203.176.182.130
+0.0.0.0 edge1-btc-btm.moratelindo.co.id 202.43.176.251
+0.0.0.0 edge1-cyb-jkt.moratelindo.co.id 202.43.180.251
+0.0.0.0 edge1-eqx-sin.moratelindo.co.id 202.43.179.1
+0.0.0.0 ge-1-3-0-vlan521.edge1-eqx-sin.moratelindo.co.id 202.43.176.33
+0.0.0.0 edge1-gr9-jkt.moratelindo.co.id 202.43.177.9
+0.0.0.0 edge1-smrt-bsd.moratelindo.co.id 202.43.177.181
+0.0.0.0 edge2-cyb-jkt.moratelindo.co.id 202.43.179.5
+0.0.0.0 elastiflow.moratelindo.co.id 202.43.191.67
+0.0.0.0 fw1-eqx-sin.moratelindo.co.id 202.43.176.30
+0.0.0.0 mail.hnd.moratelindo.co.id 103.22.248.158
+0.0.0.0 imitra.moratelindo.co.id 202.43.190.66
+0.0.0.0 ipcore-npm.moratelindo.co.id 103.22.251.156
+0.0.0.0 ipcorenmsapp.moratelindo.co.id 202.43.191.66
+0.0.0.0 iperf-sin.moratelindo.co.id 202.43.176.6
+0.0.0.0 isa.moratelindo.co.id 202.43.190.98
+0.0.0.0 isi.moratelindo.co.id 203.176.182.131
+0.0.0.0 ispconfigmti.moratelindo.co.id 27.50.30.213
+0.0.0.0 kjkoi.moratelindo.co.id 103.123.248.175
+0.0.0.0 g.moratelindo.co.id 202.43.191.77
+0.0.0.0 ibrenms.moratelindo.co.id 202.43.191.73
+0.0.0.0 mail.moratelindo.co.id 27.50.30.220
+0.0.0.0 mail2.mail-edo.moratelindo.co.id 27.50.30.213
+0.0.0.0 mail-inbound.moratelindo.co.id 27.50.20.19
+0.0.0.0 mkfj-12.moratelindo.co.id 202.43.190.126
+0.0.0.0 monica.moratelindo.co.id 103.123.248.248
+0.0.0.0 moramailer.moratelindo.co.id 192.168.10.191
+0.0.0.0 moraproman.moratelindo.co.id 27.50.30.239
+0.0.0.0 morasmartfrenportal.moratelindo.co.id 202.43.190.86
+0.0.0.0 mrtg.moratelindo.co.id 202.43.178.246
+0.0.0.0 nms.moratelindo.co.id 202.43.191.72
+0.0.0.0 noc.moratelindo.co.id 103.76.19.188
+0.0.0.0 noc-im.moratelindo.co.id 103.123.248.248
+0.0.0.0 mail.noc.moratelindo.co.id 202.43.178.253
+0.0.0.0 mon-01.noc.moratelindo.co.id 202.43.180.204
+0.0.0.0 mon-02.noc.moratelindo.co.id 202.43.180.206
+0.0.0.0 wug.noc.moratelindo.co.id 202.43.180.132
+0.0.0.0 ns-master1.moratelindo.co.id 27.50.20.19
+0.0.0.0 ns5.moratelindo.co.id 202.43.190.77
+0.0.0.0 nss1.moratelindo.co.id 202.43.180.208
+0.0.0.0 ntop.moratelindo.co.id 103.22.251.154
+0.0.0.0 kirchhoff.oob.moratelindo.co.id 202.43.176.29
+0.0.0.0 ns1-sin.oob.moratelindo.co.id 202.43.176.27
+0.0.0.0 ops-nms1-1-sin.oob.moratelindo.co.id 202.43.176.25
+0.0.0.0 ops-nms1-1-sin.moratelindo.co.id 202.43.176.2
+0.0.0.0 ops-winxp1-sin.moratelindo.co.id 202.43.176.24
+0.0.0.0 oraapps64.moratelindo.co.id 192.168.10.115
+0.0.0.0 orbit.moratelindo.co.id 202.43.176.86
+0.0.0.0 owncloud.moratelindo.co.id 27.50.30.205
+0.0.0.0 panel.moratelindo.co.id 202.43.190.97
+0.0.0.0 patroli-triasmitra.moratelindo.co.id 27.50.30.214
+0.0.0.0 portal.moratelindo.co.id 202.43.191.75
+0.0.0.0 probation-appraisal.moratelindo.co.id 203.176.182.130
+0.0.0.0 prospect.moratelindo.co.id 27.50.30.196
+0.0.0.0 proxy.moratelindo.co.id 202.43.178.250
+0.0.0.0 prtg.moratelindo.co.id 202.43.191.68
+0.0.0.0 radad.moratelindo.co.id 192.168.10.17
+0.0.0.0 relay.moratelindo.co.id 27.50.30.200
+0.0.0.0 relay-be1.moratelindo.co.id 203.176.182.140
+0.0.0.0 relay-be2.moratelindo.co.id 203.176.182.141
+0.0.0.0 relay2.moratelindo.co.id 203.176.182.137
+0.0.0.0 seeddms.moratelindo.co.id 202.43.191.70
+0.0.0.0 skynet.moratelindo.co.id 202.43.176.2
+0.0.0.0 mail.sms.moratelindo.co.id 202.43.190.123
+0.0.0.0 smtbilling.moratelindo.co.id 202.43.190.125
+0.0.0.0 speedtest-btm.moratelindo.co.id 103.22.248.205
+0.0.0.0 speedtest-mdn.moratelindo.co.id 103.22.248.126
+0.0.0.0 speedtest-sby.moratelindo.co.id 103.154.147.90
+0.0.0.0 speedtest1.moratelindo.co.id 103.22.248.32
+0.0.0.0 sso.moratelindo.co.id 27.50.30.219
+0.0.0.0 super-router-1.moratelindo.co.id 202.43.178.243
+0.0.0.0 survei.moratelindo.co.id 202.43.190.113
+0.0.0.0 survey.moratelindo.co.id 203.176.182.130
+0.0.0.0 new.survey.moratelindo.co.id 203.176.182.131
+0.0.0.0 telegram.moratelindo.co.id 202.43.190.86
+0.0.0.0 testspeed.moratelindo.co.id 202.43.190.69
+0.0.0.0 tt.moratelindo.co.id 27.50.30.214
+0.0.0.0 vicon.moratelindo.co.id 103.22.248.145
+0.0.0.0 www.moratelindo.co.id 202.43.186.228
+0.0.0.0 xfnm.moratelindo.co.id 202.43.190.244
+0.0.0.0 xftp.moratelindo.co.id 103.75.101.250
+0.0.0.0 xldap.moratelindo.co.id 202.43.191.74
+0.0.0.0 xns1.moratelindo.co.id 103.154.129.154
+0.0.0.0 xns3.moratelindo.co.id 103.123.70.134
+0.0.0.0 xoc.moratelindo.co.id 202.43.191.78
+0.0.0.0 xrelay.moratelindo.co.id 203.176.182.135
+0.0.0.0 xserver.moratelindo.co.id 202.43.190.245
+0.0.0.0 xsrv.moratelindo.co.id 202.43.176.15
+
+#IM3
+0.0.0.0 adfs.indosatooredoo.com 114.7.95.34
+0.0.0.0 ads.indosatooredoo.com 114.6.128.4
+0.0.0.0 asik.indosatooredoo.com 202.152.162.152
+0.0.0.0 autodiscover.indosatooredoo.com 114.6.2.20
+0.0.0.0 b2bmonitoring.indosatooredoo.com 114.7.94.11
+0.0.0.0 catalist-web.indosatooredoo.com 114.6.2.58
+0.0.0.0 chatbotrasa.indosatooredoo.com 114.7.95.96
+0.0.0.0 demand-ads.indosatooredoo.com 114.7.95.91
+0.0.0.0 desktopme.indosatooredoo.com 114.6.2.136
+0.0.0.0 digioffice.indosatooredoo.com 114.7.95.137
+0.0.0.0 dms.indosatooredoo.com 114.6.2.134
+0.0.0.0 dsdp.indosatooredoo.com 114.7.95.94
+0.0.0.0 dsdp-dev.indosatooredoo.com 114.7.95.105
+0.0.0.0 englishtest.indosatooredoo.com 114.7.94.69
+0.0.0.0 epmis.indosatooredoo.com 114.6.2.16
+0.0.0.0 eproc.indosatooredoo.com 114.6.2.83
+0.0.0.0 eprocsrm.indosatooredoo.com 114.6.2.84
+0.0.0.0 fbh20.indosatooredoo.com 114.7.94.174
+0.0.0.0 fms.indosatooredoo.com 202.152.161.148
+0.0.0.0 geotagging.indosatooredoo.com 114.7.94.63
+0.0.0.0 im3-assets.indosatooredoo.com 114.7.94.139
+0.0.0.0 im3-img.indosatooredoo.com 114.7.94.139
+0.0.0.0 img-dsdp.indosatooredoo.com 114.7.95.95
+0.0.0.0 indira2.indosatooredoo.com 114.7.94.35
+0.0.0.0 interscan.indosatooredoo.com 202.152.161.233
+0.0.0.0 interscan1.indosatooredoo.com 202.152.161.232
+0.0.0.0 isatkp-ms02.indosatooredoo.com 202.152.161.232
+0.0.0.0 istara.indosatooredoo.com 114.7.95.44
+0.0.0.0 mktreport.indosatooredoo.com 114.7.95.83
+0.0.0.0 mobo.indosatooredoo.com 202.152.162.5
+0.0.0.0 my-info.indosatooredoo.com 116.206.10.191
+0.0.0.0 mycorporatepay.indosatooredoo.com 202.152.5.21
+0.0.0.0 myecc.indosatooredoo.com 114.6.2.83
+0.0.0.0 myfiori.indosatooredoo.com 114.7.94.27
+0.0.0.0 myhiring.indosatooredoo.com 114.7.94.69
+0.0.0.0 myim3.indosatooredoo.com 114.7.94.16
+0.0.0.0 myim3-cms.indosatooredoo.com 114.7.94.106
+0.0.0.0 myim3-he.indosatooredoo.com 114.7.94.105
+0.0.0.0 myim3-stgcms.indosatooredoo.com 114.7.94.107
+0.0.0.0 myim3-test.indosatooredoo.com 114.7.95.24
+0.0.0.0 myim3api.indosatooredoo.com 114.7.94.104
+0.0.0.0 myim3api-stg.indosatooredoo.com 35.227.250.54
+0.0.0.0 myim3app.indosatooredoo.com 114.7.94.105
+0.0.0.0 myim3biz.indosatooredoo.com 114.7.94.94
+0.0.0.0 myim3shop.indosatooredoo.com 114.7.94.108
+0.0.0.0 myinfo.indosatooredoo.com 202.152.161.240
+0.0.0.0 myiot.indosatooredoo.com 114.7.94.45
+0.0.0.0 myretail.indosatooredoo.com 35.241.28.51
+0.0.0.0 nadaku.indosatooredoo.com 114.7.95.50
+0.0.0.0 netsafe.indosatooredoo.com 114.6.128.8
+0.0.0.0 ns2.indosatooredoo.com 202.152.165.36
+0.0.0.0 owamobile.indosatooredoo.com 114.6.2.81
+0.0.0.0 partner.indosatooredoo.com 114.7.95.32
+0.0.0.0 payment.indosatooredoo.com 202.152.161.202
+0.0.0.0 qas-fiori.indosatooredoo.com 114.6.2.213
+0.0.0.0 sadewa.indosatooredoo.com 202.152.161.229
+0.0.0.0 sadewa2.indosatooredoo.com 202.152.161.199
+0.0.0.0 staging.sdr.indosatooredoo.com 114.7.95.19
+0.0.0.0 securevpn.indosatooredoo.com 114.7.94.31
+0.0.0.0 sf-test.indosatooredoo.com 114.7.95.5
+0.0.0.0 simpel.indosatooredoo.com 114.7.94.101
+0.0.0.0 simpel-drc.indosatooredoo.com 114.7.95.72
+0.0.0.0 simpelweb.indosatooredoo.com 114.7.94.147
+0.0.0.0 smartlock.indosatooredoo.com 116.206.10.212
+0.0.0.0 digitaloffice.smr.indosatooredoo.com 114.7.95.19
+0.0.0.0 speedtest.indosatooredoo.com 114.4.41.5
+0.0.0.0 speedtest2.indosatooredoo.com 114.5.9.166
+0.0.0.0 speedtest3.indosatooredoo.com 114.5.9.162
+0.0.0.0 speedtest4.indosatooredoo.com 114.7.173.94
+0.0.0.0 testiot.indosatooredoo.com 114.7.94.44
+0.0.0.0 webmail.indosatooredoo.com 114.6.2.20
+0.0.0.0 www.indosatooredoo.com 114.7.94.149
+0.0.0.0 xpjimsva01.indosatooredoo.com 114.7.95.23
+0.0.0.0 xptimsva01.indosatooredoo.com 114.7.94.58
+0.0.0.0 yes-drc.indosatooredoo.com 114.7.95.73
+0.0.0.0 yesweb.indosatooredoo.com 114.7.94.146
+0.0.0.0 yesweb-drc.indosatooredoo.com 114.7.95.86
+0.0.0.0 yesweb-stg.indosatooredoo.com 114.7.94.102
+0.0.0.0 im3.id 114.7.94.188
+0.0.0.0 myim3-web.indosatooredoo.com 114.7.94.105
+0.0.0.0 myim3.ioh.co.id 34.120.15.253
+0.0.0.0 myim3shop.indosatooredoo.com 114.7.94.108
+
+#XL
+0.0.0.0 xl.co.id 75.2.123.169
+0.0.0.0 4g.xl.co.id 54.251.37.78
+0.0.0.0 60mazda2.xl.co.id 54.251.37.78
+0.0.0.0 aiops.xl.co.id 202.152.224.41
+0.0.0.0 api123.xl.co.id 112.215.105.22
+0.0.0.0 api123ddos.xl.co.id 202.152.224.243
+0.0.0.0 apiegw.xl.co.id 112.215.176.7
+0.0.0.0 apiegw-dev.xl.co.id 112.215.176.24
+0.0.0.0 avicenna.xl.co.id 112.215.248.67
+0.0.0.0 axiatacup.xl.co.id 119.81.1.69
+0.0.0.0 bebasliburan.xl.co.id 54.251.37.78
+0.0.0.0 beligadget.xl.co.id 103.117.207.36
+0.0.0.0 bpm.xl.co.id 112.215.105.46
+0.0.0.0 busol.xl.co.id 202.152.224.68
+0.0.0.0 cache01.xl.co.id 112.215.128.212
+0.0.0.0 cache02.xl.co.id 112.215.128.214
+0.0.0.0 callisto.xl.co.id 112.215.60.10
+0.0.0.0 conf.xl.co.id 112.215.105.93
+0.0.0.0 dekat.xl.co.id 202.159.121.197
+0.0.0.0 digitalprofile.xl.co.id 112.215.197.57
+0.0.0.0 dompuluntung.xl.co.id 202.152.224.233
+0.0.0.0 dpy.xl.co.id 202.152.224.212
+0.0.0.0 ads.dpy.xl.co.id 202.152.224.29
+0.0.0.0 adstest.dpy.xl.co.id 202.152.224.29
+0.0.0.0 adtest.dpy.xl.co.id 202.152.224.29
+0.0.0.0 clicktest.dpy.xl.co.id 202.152.224.29
+0.0.0.0 e-suppliermgmt.xl.co.id 202.152.224.180
+0.0.0.0 ecare.xl.co.id 202.152.224.36
+0.0.0.0 failover.xl.co.id 202.152.224.165
+0.0.0.0 fleet.xl.co.id 194.233.93.149
+0.0.0.0 forum.xl.co.id 112.215.105.89
+0.0.0.0 garagara3g.xl.co.id 54.251.37.78
+0.0.0.0 grosir.xl.co.id 112.215.105.90
+0.0.0.0 ns2.gtmbdg.xl.co.id 112.215.105.10
+0.0.0.0 hpdb.xl.co.id 202.152.224.182
+0.0.0.0 ibnads.xl.co.id 112.215.105.153
+0.0.0.0 ics.xl.co.id 202.152.224.190
+0.0.0.0 www.ics.xl.co.id 202.152.224.190
+0.0.0.0 www.idex-portal.xl.co.id 202.152.224.16
+0.0.0.0 isipulsa.xl.co.id 103.89.0.83
+0.0.0.0 jagoanmuda.xl.co.id 202.153.130.18
+0.0.0.0 karaoke.xl.co.id 202.152.224.196
+0.0.0.0 kmtube.xl.co.id 112.215.105.82
+0.0.0.0 ba.xl.co.id 140.213.205.10
+0.0.0.0 easemgt.xl.co.id 18.138.87.240
+0.0.0.0 ife.xl.co.id 202.152.224.91
+0.0.0.0 m.xl.co.id 13.251.32.184
+0.0.0.0 mail1.xl.co.id 140.213.205.8
+0.0.0.0 mail2.xl.co.id 140.213.205.9
+0.0.0.0 mail3.xl.co.id 202.152.224.137
+0.0.0.0 mail4.xl.co.id 202.152.224.138
+0.0.0.0 mail5.xl.co.id 202.152.224.8
+0.0.0.0 mail6.xl.co.id 202.152.224.63
+0.0.0.0 mbb.xl.co.id 112.215.105.65
+0.0.0.0 mbbpreorder.xl.co.id 112.215.105.61
+0.0.0.0 mbbtesting.xl.co.id 112.215.105.66
+0.0.0.0 mkartukredit.xl.co.id 202.152.224.193
+0.0.0.0 mona.xl.co.id 202.152.224.229
+0.0.0.0 api.my.xl.co.id 112.215.105.27
+0.0.0.0 apidev.my.xl.co.id 202.152.224.143
+0.0.0.0 webdev.my.xl.co.id 202.152.224.142
+0.0.0.0 mypostpaid.xl.co.id 112.215.105.12
+0.0.0.0 mypre2uat.xl.co.id 112.215.105.101
+0.0.0.0 myprepaid.xl.co.id 112.215.105.11
+0.0.0.0 mypreuat.xl.co.id 112.215.105.101
+0.0.0.0 mystaging2.xl.co.id 112.215.105.50
+0.0.0.0 myxlpostpaid.xl.co.id 112.215.105.12
+0.0.0.0 myxlsatelit.xl.co.id 112.215.105.107
+0.0.0.0 national-roaming.xl.co.id 202.152.224.89
+0.0.0.0 ns2.xl.co.id 112.215.37.178
+0.0.0.0 otamona.xl.co.id 202.77.96.226
+0.0.0.0 pasangansehati.xl.co.id 54.251.37.78
+0.0.0.0 performance.xl.co.id 112.215.105.70
+0.0.0.0 plato.xl.co.id 112.215.248.66
+0.0.0.0 pnv.xl.co.id 202.152.240.78
+0.0.0.0 poinxtra.xl.co.id 27.111.225.88
+0.0.0.0 ranshare-indosat.xl.co.id 202.152.224.209
+0.0.0.0 rbt.xl.co.id 202.152.224.222
+0.0.0.0 registrasi.xl.co.id 112.215.105.63
+0.0.0.0 secure.xl.co.id 112.215.105.104
+0.0.0.0 sekarangbisa.xl.co.id 54.251.37.78
+0.0.0.0 service.xl.co.id 112.215.105.53
+0.0.0.0 servicedev.xl.co.id 112.215.105.54
+0.0.0.0 api.shake.xl.co.id 112.215.105.30
+0.0.0.0 staging.shake.xl.co.id 112.215.105.31
+0.0.0.0 sipsfb.xl.co.id 112.215.105.71
+0.0.0.0 smitastaging.xl.co.id 202.152.224.77
+0.0.0.0 speedtest-bjm.xl.co.id 112.215.223.36
+0.0.0.0 speedtest-dps.xl.co.id 112.215.223.20
+0.0.0.0 speedtest-iix.xl.co.id 112.215.198.25
+0.0.0.0 speedtest-intl.xl.co.id 112.215.198.21
+0.0.0.0 speedtest-mks.xl.co.id 112.215.223.28
+0.0.0.0 speedtest-pkb.xl.co.id 112.215.223.12
+0.0.0.0 speedtest-sby.xl.co.id 112.215.223.4
+0.0.0.0 sslvpn.xl.co.id 202.152.224.30
+0.0.0.0 stoppagetest.xl.co.id 112.215.105.58
+0.0.0.0 web2sms.xl.co.id 112.215.105.105
+0.0.0.0 weblogin.xl.co.id 202.152.224.134
+0.0.0.0 xlcuaps.xl.co.id 202.152.224.185
+0.0.0.0 xlentcareers.xl.co.id 202.152.224.152
+0.0.0.0 xlsso.xl.co.id 202.152.224.80
+0.0.0.0 xltpay.xl.co.id 112.215.197.56
+0.0.0.0 apps.xltunai.xl.co.id 202.152.224.242
+0.0.0.0 microsite.xltunai.xl.co.id 202.152.224.246
+0.0.0.0 xltunaiweb.xl.co.id 112.215.105.137
+0.0.0.0 xlaxiata.co.id 99.83.174.48
+0.0.0.0 bdg.ult.ext.xlaxiata.co.id 18.139.122.131
+0.0.0.0 apigw.srg.ult.ext.xlaxiata.co.id 3.0.247.150
+0.0.0.0 m.srg.ult.ext.xlaxiata.co.id 13.215.78.167
+0.0.0.0 rinjani.myxl.xlaxiata.co.id 3.169.183.78
+0.0.0.0 registrasirups.xlaxiata.co.id 112.215.105.127
+0.0.0.0 partnerxlhome.com 153.92.13.46
+
+#hsp net
+0.0.0.0 absensi.hsp.net.id,43.225.64.8
+0.0.0.0 antispam0.hsp.net.id,43.225.64.173
+0.0.0.0 apinya.hsp.net.id,43.225.64.174
+0.0.0.0 www.apinya.hsp.net.id,43.225.64.174
+0.0.0.0 as.hsp.net.id,43.225.64.167
+0.0.0.0 bbnms.hsp.net.id,43.225.64.5
+0.0.0.0 cacti.hsp.net.id,43.225.64.61
+0.0.0.0 cpanel.hsp.net.id,43.225.64.167
+0.0.0.0 cust.hsp.net.id,43.225.64.174
+0.0.0.0 www.cust.hsp.net.id,43.225.64.174
+0.0.0.0 cyberpanel.hsp.net.id,43.225.64.9
+0.0.0.0 dev.hsp.net.id,43.225.64.29
+0.0.0.0 erp.hsp.net.id,43.225.64.130
+0.0.0.0 ewo.hsp.net.id,103.247.216.205
+0.0.0.0 helpdesk.hsp.net.id,43.225.64.202
+0.0.0.0 imsva2.hsp.net.id,43.225.64.14
+0.0.0.0 imsvapanel.hsp.net.id,43.225.64.165
+0.0.0.0 lg.hsp.net.id,43.225.64.30
+0.0.0.0 librebali.hsp.net.id,43.225.64.146
+0.0.0.0 librenap.hsp.net.id,43.225.64.16
+0.0.0.0 librenms.hsp.net.id,43.225.64.172
+0.0.0.0 lion.hsp.net.id,43.225.64.254
+0.0.0.0 lion1.hsp.net.id,43.225.64.174
+0.0.0.0 lion2.hsp.net.id,43.225.64.34
+0.0.0.0 look.hsp.net.id,43.225.64.165
+0.0.0.0 mail.hsp.net.id,43.225.64.229
+0.0.0.0 mail-gw.hsp.net.id,43.225.64.54
+0.0.0.0 member.hsp.net.id,43.225.64.90
+0.0.0.0 mrtg.hsp.net.id,43.225.64.86
+0.0.0.0 mta1.hsp.net.id,43.225.64.231
+
+#Pemerintah
+0.0.0.0 e-telekomunikasi.kominfo.go.id,202.89.117.210
+0.0.0.0 komdigi.go.id,45.60.34.49
+0.0.0.0 digitalent.komdigi.go.id,103.225.242.148
+0.0.0.0 east-asia.komdigi.go.id,103.8.238.210
+0.0.0.0 id.komdigi.go.id,103.8.238.210
+0.0.0.0 jp.komdigi.go.id,103.8.238.210
+0.0.0.0 pmt.komdigi.go.id,103.8.238.65
+0.0.0.0 pmt-alarm.komdigi.go.id,103.8.238.65
+0.0.0.0 pse.komdigi.go.id,103.170.104.149
+0.0.0.0 sg.komdigi.go.id,103.8.238.210
+0.0.0.0 www.telkomsigma.co.id,103.147.2.4
+0.0.0.0 profiling.patrolisiber.id,104.21.13.208
+0.0.0.0 www.patrolisiber.id,104.21.13.208
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

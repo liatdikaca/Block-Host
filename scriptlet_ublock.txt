@@ -1,0 +1,32 @@
+0.0.0.0 onnano.tv #(acs, document.addEventListener, popup)
+0.0.0.0 doroni.me #(acs, getComputedStyle, , cpm)
+i0.0.0.0 nfo.mapsaddress.com,info.vebma.com #(aeld, click, linkOpened)
+0.0.0.0 juraganfilm.ink #(aopr, $.magnificPopup.open)
+0.0.0.0 cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com,jenismac.com #(nano-sib)
+0.0.0.0 mudah.my #(no-fetch-if, ads.google.com)
+0.0.0.0 cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com,thejakartapost.com #(no-fetch-if, adsbygoogle)
+0.0.0.0 netq.me #(no-fetch-if, clarity.ms)
+0.0.0.0 bokepgemoy.com #(nobab)
+0.0.0.0 193.142.147.230
+0.0.0.0 5.253.86.213
+0.0.0.0 ainzscans.net
+0.0.0.0 igobokep.cam
+0.0.0.0 jenismac.com
+0.0.0.0 siimanga.cyou #(noeval-if, /chp_?ad/)
+0.0.0.0 netq.me #(nostif, console)
+0.0.0.0 anichin.top
+0.0.0.0 animekompi.vip
+0.0.0.0 kimcilonly.site,l
+0.0.0.0 kiryuu.id
+0.0.0.0 kiryuu.org
+0.0.0.0 njavtv.com,l
+0.0.0.0 subindojav.cc #(nowoif)
+0.0.0.0 okezone.com #(rc, content-wrap)
+0.0.0.0 inews.id #(rc, content-wrap|wrap-all)
+0.0.0.0 sindonews.com #(rc, t480)
+0.0.0.0 tipsgaptek.com,tipskerja.com #(refresh-defuser)
+0.0.0.0 almaftuchin.com #(rmnt, script, adblock)
+0.0.0.0 wisatalova.com #(rmnt, script, hargamenu)
+0.0.0.0 katadata.co.id #(rmnt, script, modalAdsPopup)
+0.0.0.0 gramedia.com #(rmnt, script, replaceState, condition, shope.ee)
+0.0.0.0 carisinyal.com #(rmnt, script, showModal)

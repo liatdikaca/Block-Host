@@ -1,0 +1,50 @@
+! Allowlist for network filters
+0.0.0.0 1idsly.com #generichide
+0.0.0.0 ad4msan.com #generichide
+0.0.0.0 ads.id #~third-party
+0.0.0.0 ads.kaskus.co.id/widget/ads/create$subdocument,domain=kaskus.co.id
+0.0.0.0 adturl.com #generichide
+0.0.0.0 advertising-indonesia.id #~third-party
+0.0.0.0 apkmod.id #generichide
+0.0.0.0 bagilagi.com #generichide
+0.0.0.0 digitalponsel.com #elemhide
+0.0.0.0 dramaencode.com #generichide
+0.0.0.0 eirudo.com #generichide
+0.0.0.0 gadget2reviews.com #generichide
+0.0.0.0 game-kentang.blogspot.com #generichide
+0.0.0.0 hightech.web.id #generichide
+0.0.0.0 illyasave.com #generichide
+0.0.0.0 infotekno.net #generichide
+0.0.0.0 inwepo.co #generichide
+0.0.0.0 kaze-batch.blogspot.com #generichide
+0.0.0.0 majalahikan.com #generichide
+0.0.0.0 mangacanblog.com #generichide
+0.0.0.0 mivo.com #generichide
+0.0.0.0 nama.web.id #generichide
+0.0.0.0 novelgo.id #generichide
+0.0.0.0 omahkpop.com #generichide
+0.0.0.0 pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=duniaseksi.com|kontenterabox.com|tutwuri.id
+0.0.0.0 pubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=kompas.com
+0.0.0.0 radarlombok.co.id #generichide
+0.0.0.0 razorlink.us #generichide
+0.0.0.0 rbreezy.xyz/nativeads-v2.js$script,~third-party
+0.0.0.0 riauonline.co.id #generichide
+0.0.0.0 sanjayaops.com #generichide
+0.0.0.0 suarankri.me #generichide
+0.0.0.0 tokusatsuindo.com #generichide
+0.0.0.0 xmalay.net/nativeads-v2.js$script,~third-party
+! ABP-specific allowlist for network filters
+! Allowlist for element hiding filters
+woof.tube #adsbox
+datasekolah.co.id,eramuslim.com,mangalist.org,maulandaru.com #adsbygoogle
+aplikasipc.com #afs_ads
+qqcinema21.com #headads
+layarlebarxxi.com #idmuvi-afterplayer
+adikanime.com,nge-film21.info #idmuvi-banner-aftercontent
+103.70.114.35,109.234.34.246,193.142.147.230,filmdewasaku.org,layardrama21.com #idmuvi-topbanner-aftermenu
+layarlebar21.org,layarlebarxxi.com #idmuvi-topplayer
+animanganews.com,short.awsubs.co #iklan
+tokosatu.com #popupflyin-clicks-area
+digikala.com,sporcle.com #remodal
+oomph.co.id #shareit
+totolink.id #social-circle

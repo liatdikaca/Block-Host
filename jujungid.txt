@@ -1,13 +1,13 @@
-0.0.0.0 0.0.0.0 absensi.jujung.id 43.225.64.162
-0.0.0.0 www.absensi.jujung.id 43.225.64.162
-0.0.0.0 cctv.jujung.id 43.225.64.93
-0.0.0.0 daftartemp.jujung.id 43.225.64.162
-0.0.0.0 demo.jujung.id 43.225.64.162
-0.0.0.0 livechat.jujung.id 43.225.64.93
-0.0.0.0 member.jujung.id 43.225.64.198
-0.0.0.0 www.member.jujung.id 43.225.64.162
-0.0.0.0 pp.jujung.id 43.225.64.198
-0.0.0.0 recruitment.jujung.id 43.225.64.162
-0.0.0.0 recruitmenttrial.jujung.id 43.225.64.162
-0.0.0.0 salesorder.jujung.id 43.225.64.162
-0.0.0.0 webgis.jujung.id 43.225.64.162
+1.1.1.1 absensi.jujung.id 43.225.64.162
+1.1.1.1 www.absensi.jujung.id 43.225.64.162
+1.1.1.1 cctv.jujung.id 43.225.64.93
+1.1.1.1 daftartemp.jujung.id 43.225.64.162
+1.1.1.1 demo.jujung.id 43.225.64.162
+1.1.1.1 livechat.jujung.id 43.225.64.93
+1.1.1.1 member.jujung.id 43.225.64.198
+1.1.1.1 www.member.jujung.id 43.225.64.162
+1.1.1.1 pp.jujung.id 43.225.64.198
+1.1.1.1 recruitment.jujung.id 43.225.64.162
+1.1.1.1 recruitmenttrial.jujung.id 43.225.64.162
+1.1.1.1 salesorder.jujung.id 43.225.64.162
+1.1.1.1 webgis.jujung.id 43.225.64.162
